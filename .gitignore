@@ -1,0 +1,19 @@
+# Gradle ve derleme çıktıları
+.gradle/
+.kotlin/
+build/
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+.DS_Store
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Yerel ayarlar (SDK yolu, bilgisayara özel)
+local.properties
+
+# İmza anahtarları
+*.jks
+*.keystore
